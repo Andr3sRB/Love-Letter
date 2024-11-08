@@ -2,6 +2,11 @@
 
 This project implements a simplified computational version of the popular card game **Love Letter**, using **Python**. The simulation models the game's mechanics, allowing players to experience the strategic depth of Love Letter without needing the physical game.
 
+## Author
+**Andrés Restrepo Botero**  
+**Universidad EAFIT**  
+**Mathematical Engineering**  
+
 ## Features
 - **Full Game Simulation**: Simulates the core mechanics of Love Letter, including drawing, playing, and discarding cards.
 - **Simplified Rules**: Adjustments made for computational simplicity:
