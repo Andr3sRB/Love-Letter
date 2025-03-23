@@ -46,5 +46,5 @@ Player 2 plays Guard (1), guesses Princess.
 
 
 
-[Online toolbox user guide example](./UserGuide_ABM-EpiVector(1).html)
+[Online toolbox user guide example](./UserGuide_ABM-EpiVector.html)
 
